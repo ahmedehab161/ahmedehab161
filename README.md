@@ -69,7 +69,7 @@
 ###
 
 <div align="center">
-  [<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/64c9434ec3203c8793221b34?variant=dark" alt="roadmap.sh"/></a>](https://roadmap.sh/card/tall/64c9434ec3203c8793221b34?variant=dark)
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/64c9434ec3203c8793221b34?variant=dark" alt="roadmap.sh"/></a>
 </div>
 
 ###

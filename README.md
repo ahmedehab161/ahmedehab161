@@ -4,7 +4,7 @@
 
 <p align="left">
   I am an entry-level Full Stack Developer focused on Node.js, possessing a strong knowledge of JavaScript, Express.js, MySQL, and MongoDB. 
-  🚀 Developed various academic and personal projects, including management systems and web applications, demonstrating both back-end and front-end capabilities. 
+  🚀 Developed various academic and personal projects, including management systems and web applications, demonstrating both back-end and front-end capabilities.<br> 
   🌱 Excited to become part of a professional team, contribute to real-world projects, and advance my career as a Node.js Full Stack Developer.
 </p>
 

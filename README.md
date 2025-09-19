@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">My name is Ahmed Ehab and I'm a Full Stack Developer, from Egypt</p>
+<p align="left">
+  I am an entry-level Full Stack Developer focused on Node.js, possessing a strong knowledge of JavaScript, Express.js, MySQL, and MongoDB. 
+  🚀 Developed various academic and personal projects, including management systems and web applications, demonstrating both back-end and front-end capabilities. 
+  🌱 Excited to become part of a professional team, contribute to real-world projects, and advance my career as a Node.js Full Stack Developer.
+</p>
 
 ###
 

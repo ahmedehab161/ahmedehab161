@@ -3,9 +3,17 @@
 ###
 
 <p align="left">
-  I am an entry-level Full Stack Developer focused on Node.js, possessing a strong knowledge of JavaScript, Express.js, MySQL, and MongoDB. 
-  🚀 Developed various academic and personal projects, including management systems and web applications, demonstrating both back-end and front-end capabilities.<br> 
-  🌱 Excited to become part of a professional team, contribute to real-world projects, and advance my career as a Node.js Full Stack Developer.
+  I’m Ahmed Ehab, a Computer Science graduate from Cairo Higher Institute (Class of 2023) with a strong passion for Web Development, Networking, and Software Engineering. I enjoy solving real-world problems through code and developing efficient, user-friendly web applications.
+
+I have hands-on experience in PHP, Laravel, JavaScript, MySQL, and OOP, along with front-end technologies like HTML, CSS, and Bootstrap. My projects include building a Pharmacy Management System, a Car Maintenance & Exchange Platform (web and mobile), and a Student Management System with automated GPA calculation and certificate generation.
+
+I’ve completed certifications in meta Front-End Development (Coursera) — continuously expanding my skills to become a full-stack developer. I value teamwork, continuous learning, and delivering impactful digital solutions.
+
+🔗 Portfolio: ahmed-portfolio-6504f.web.app
+
+💻 GitHub: github.com/ahmedehab161
+
+📧 Email: ahmedmedo012556@gmail.com
 </p>
 
 ###

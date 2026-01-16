@@ -3,11 +3,13 @@
 ###
 
 <p align="left">
-  I’m Ahmed Ehab, a Computer Science graduate from Cairo Higher Institute (Class of 2023) with a strong passion for Web Development, Networking, and Software Engineering. I enjoy solving real-world problems through code and developing efficient, user-friendly web applications.
+As a Computer Science graduate from Cairo Higher Institute for Engineering, Computer Science and Management (2023), I have a strong foundation in both IT support operations and software development. I bring hands-on experience in troubleshooting hardware and software issues, supporting end users, and working with Windows systems, alongside solid knowledge of web technologies.
 
-I have hands-on experience in PHP, Laravel, JavaScript, MySQL, and OOP, along with front-end technologies like HTML, CSS, and Bootstrap. My projects include building a Pharmacy Management System, a Car Maintenance & Exchange Platform (web and mobile), and a Student Management System with automated GPA calculation and certificate generation.
+My technical skill set includes IT support and desktop troubleshooting, Windows OS, Microsoft Office, basic networking, as well as PHP, Laravel, MySQL, JavaScript, HTML, CSS, and Bootstrap. I also hold a certification in Front-End Development from Meta, which strengthened my understanding of modern web standards and user-focused solutions.
 
-I’ve completed certifications in meta Front-End Development (Coursera) — continuously expanding my skills to become a full-stack developer. I value teamwork, continuous learning, and delivering impactful digital solutions.
+Most recently, I worked as a Back-End Developer, where I gained practical experience in building secure and maintainable web applications and working with databases and APIs. This development background enhances my problem-solving abilities and helps me approach technical issues analytically and efficiently.
+
+I am currently seeking opportunities in IT Support / Help Desk roles or EntryLevel Back-End / Software Engineering positions, where I can contribute my technical skills, support users effectively, and continue growing in a dynamic, technology-driven environment.
 
 🔗 Portfolio: ahmed-portfolio-6504f.web.app
 
@@ -42,7 +44,7 @@ I’ve completed certifications in meta Front-End Development (Coursera) — con
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning JavaScript<br>🎯 Goals: gain more and more experience in my field</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning JavaScript<br>🎯 Goals: gain more and more experience in my field</p>
 
 ###
 
